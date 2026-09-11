@@ -1,0 +1,36 @@
+## Actividad 1 — Construir el mapa de AZ-104
+
+**Objetivo**
+
+Construir una representación propia de lo que es AZ-104 y de las áreas que administra un Azure Administrator. El Issue define AZ-104 como una certificación orientada a implementar, administrar y mantener recursos y servicios de Azure.
+
+**Qué necesito**
+
+* Papel y lápiz, o cualquier herramienta para dibujar.
+* El Issue #1.
+
+**Pasos**
+
+1. Dibuja en el centro **AZ-104**.
+2. Alrededor, crea cinco ramas:
+
+   * Identity & Governance
+   * Storage
+   * Compute
+   * Networking
+   * Monitoring
+3. Escribe el porcentaje correspondiente a cada área.
+4. Debajo de cada área, coloca los ejemplos que aparecen en el Issue.
+5. Sin mirar el Issue, intenta reconstruir el mapa.
+
+**Qué debo observar**
+
+Que las cinco áreas no son servicios aislados, sino las grandes categorías que forman el conocimiento evaluado en AZ-104.
+
+**Qué significa**
+
+AZ-104 está orientado a administrar un entorno Azure completo, incluyendo identidades, recursos, almacenamiento, cómputo, redes y monitoreo.
+
+**Comprobación**
+
+Debes poder explicar, sin leer, qué representa cada una de las cinco áreas y por qué forma parte del trabajo de un Azure Administrator.

@@ -1,0 +1,43 @@
+
+---
+
+## Actividad 6 — Separar Control Plane y Data Plane
+
+**Objetivo**
+
+Construir una comprensión práctica de la diferencia entre administrar un recurso y utilizar los datos o funcionalidades que proporciona. El Issue define **Control Plane** como la administración/configuración del recurso y **Data Plane** como la utilización de los datos o funcionalidades del recurso.
+
+**Qué necesito**
+
+* Papel y lápiz.
+
+**Pasos**
+
+1. Dibuja dos columnas:
+
+| Control Plane | Data Plane |
+| ------------- | ---------- |
+|               |            |
+
+2. Coloca en **Control Plane**:
+
+   * Crear una Storage Account.
+   * Crear/modificar un recurso.
+3. Coloca en **Data Plane**:
+
+   * Subir un archivo a Blob Storage.
+4. Añade debajo de cada columna una frase explicando qué está haciendo la persona.
+5. Cierra el Issue e intenta reconstruir la diferencia desde memoria.
+
+**Qué debo observar**
+
+Que las dos operaciones ocurren en niveles conceptualmente diferentes.
+
+**Qué significa**
+
+* **Control Plane:** administrar el recurso.
+* **Data Plane:** utilizar los datos o funcionalidades proporcionados por el recurso.
+
+**Comprobación**
+
+Debes poder recibir una operación y explicar si representa administración del recurso o utilización de sus datos/funcionalidades.

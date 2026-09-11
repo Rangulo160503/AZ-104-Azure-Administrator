@@ -1,0 +1,19 @@
+$repoBody = @{
+    name        = "AZ-104-Azure-Administrator"
+    description = "Hands-on study system for Microsoft AZ-104 Azure Administrator Associate"
+    private     = $false
+    has_issues  = $true
+    has_projects = $true
+    has_wiki    = $false
+    has_downloads = false
+    auto_init   = $false
+} | ConvertTo-Json
+
+$repo = Invoke-RestMethod `
+    -Uri "https://api.github.com/user/repos" `
+    -Headers $headers `
+    -Method Post `
+    -ContentType "application/json" `
+    -Body $repoBody
+
+$repo | Select-Object name, html_url, private, has_issues, has_projects

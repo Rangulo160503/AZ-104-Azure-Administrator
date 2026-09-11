@@ -1,0 +1,50 @@
+
+---
+
+## Actividad 5 — Administrar un recurso durante su ciclo de vida
+
+**Objetivo**
+
+Comprender qué significa administrar un recurso más allá de simplemente crearlo. El Issue presenta el ciclo:
+
+```text
+Planear
+   ↓
+Crear
+   ↓
+Configurar
+   ↓
+Proteger
+   ↓
+Supervisar
+   ↓
+Mantener
+   ↓
+Modificar / Escalar
+   ↓
+Eliminar cuando corresponda
+```
+
+**Qué necesito**
+
+* Papel y lápiz.
+
+**Pasos**
+
+1. Copia el ciclo anterior.
+2. Elige como recurso una **Virtual Machine**, que aparece en el Issue.
+3. Para cada etapa del ciclo, escribe qué tendría que hacer el administrador según los ejemplos proporcionados.
+4. Explica qué podría ocurrir si el administrador solamente realizara la etapa **Crear**.
+5. Explica por qué las demás etapas forman parte de la administración.
+
+**Qué debo observar**
+
+Que “crear un recurso” es solamente una parte de administrarlo.
+
+**Qué significa**
+
+Administrar Azure implica gestionar el ciclo de vida completo del recurso.
+
+**Comprobación**
+
+Debes poder explicar con tus propias palabras qué significa **administrar un recurso de Azure**.

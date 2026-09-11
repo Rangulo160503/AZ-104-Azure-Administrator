@@ -1,0 +1,45 @@
+
+---
+
+## Actividad 2 — Reconstruir el trabajo de un Azure Administrator
+
+**Objetivo**
+
+Comprender qué significa realmente “administrar Azure” en lugar de asociar el rol únicamente con crear recursos. El Issue describe responsabilidades que incluyen implementar, configurar, proteger, supervisar, resolver problemas y mantener recursos.
+
+**Qué necesito**
+
+* Papel y lápiz.
+
+**Pasos**
+
+1. Escribe en el centro: **Azure Administrator**.
+2. Alrededor, escribe las acciones que aparecen en el Issue:
+
+   * Implementar
+   * Configurar
+   * Administrar
+   * Proteger
+   * Supervisar
+   * Resolver problemas
+   * Mantener
+3. Ordénalas como un ciclo de trabajo.
+4. Debajo de cada acción escribe un ejemplo de responsabilidad mencionado en el Issue.
+5. Explica en voz alta qué hace el administrador durante ese ciclo.
+
+**Qué debo observar**
+
+Que administrar un recurso implica mucho más que crearlo.
+
+**Qué significa**
+
+El administrador opera el ciclo de vida de los recursos para que cumplan correctamente las necesidades de la organización.
+
+**Comprobación**
+
+Debes poder responder:
+
+> “¿Qué hace un Azure Administrator durante la vida de un recurso?”
+
+sin limitarte a decir “lo crea y lo configura”.
+

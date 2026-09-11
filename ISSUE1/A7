@@ -1,0 +1,38 @@
+
+---
+
+## Actividad 7 — Explicar AZ-104 sin utilizar definiciones
+
+**Objetivo**
+
+Comprobar que puedes reconstruir la idea completa del Issue con tus propias palabras.
+
+**Qué necesito**
+
+* Ninguna herramienta.
+
+**Pasos**
+
+Sin mirar el Issue, responde oralmente:
+
+1. ¿Qué es AZ-104?
+2. ¿Qué hace un Azure Administrator?
+3. ¿Cuáles son las cinco áreas principales?
+4. ¿Cómo se organiza Azure a grandes rasgos?
+5. ¿Qué significa administrar un recurso?
+6. ¿Cuál es la diferencia entre Control Plane y Data Plane?
+7. ¿Qué papel cumple Azure Resource Manager dentro del modelo de administración?
+
+Después compara tus respuestas con el Issue y corrige únicamente aquello que no puedas explicar correctamente.
+
+**Qué debo observar**
+
+Que puedas construir la explicación completa conectando los conceptos, en lugar de repetir definiciones aisladas.
+
+**Qué significa**
+
+Si puedes conectar **AZ-104 → Azure Administrator → áreas → recursos → administración → Control Plane/Data Plane**, ya estás comprendiendo el mapa conceptual que presenta el Issue.
+
+**Comprobación**
+
+Debes poder explicarle a otra persona qué es AZ-104 y qué hace un Azure Administrator sin leer el Issue.

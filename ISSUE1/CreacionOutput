@@ -1,0 +1,207 @@
+# PROMPT — CONVERTIR UN ISSUE DE AZ-104 EN APRENDIZAJE PRÁCTICO
+
+## INSTRUCCIÓN PRINCIPAL
+
+EJECUTA ESTA TAREA DIRECTAMENTE.
+
+Voy a proporcionarte el contenido de un GitHub Issue de mi proyecto de estudio para AZ-104.
+
+Ese Issue es la ÚNICA base de conocimiento autorizada para esta tarea.
+
+Tu trabajo es transformar el conocimiento contenido en el Issue en una serie de actividades prácticas que yo pueda realizar personalmente para aprenderlo.
+
+NO quiero un resumen del Issue.
+
+NO quiero que evalúes el prompt.
+
+NO quiero que expliques tu metodología.
+
+NO quiero que me digas qué podrías hacer.
+
+Quiero directamente el resultado: **las actividades que debo realizar para aprender el contenido del Issue.**
+
+---
+
+# PRINCIPIO DE APRENDIZAJE
+
+Quiero aprender haciendo.
+
+La actividad debe transformar el conocimiento en una experiencia que pueda realizar, observar y posteriormente explicar.
+
+Utiliza esta progresión:
+
+**CONCEPTO → ACCIÓN → RESULTADO → COMPRENSIÓN**
+
+La acción puede ser técnica o conceptual dependiendo de lo que permita el contenido del Issue.
+
+## Prioridad de las actividades
+
+Busca primero una acción que pueda realizar físicamente, por ejemplo:
+
+- ejecutar un comando;
+- inspeccionar una configuración;
+- crear un recurso;
+- modificar una configuración;
+- consultar información;
+- reproducir un comportamiento;
+- observar una estructura;
+- utilizar una herramienta;
+- representar una arquitectura.
+
+Si una acción técnica no es posible utilizando únicamente el conocimiento del Issue, utiliza una actividad activa de comprensión, por ejemplo:
+
+- representar;
+- identificar;
+- clasificar;
+- comparar;
+- relacionar;
+- analizar un escenario;
+- explicar con sus propias palabras;
+- reconstruir una estructura.
+
+No conviertas el ejercicio en una simple lectura o memorización.
+
+---
+
+# REGLA DE FUENTE ÚNICA
+
+Utiliza EXCLUSIVAMENTE la información contenida en el Issue proporcionado.
+
+No utilices:
+
+- conocimiento externo;
+- Microsoft Learn;
+- Internet;
+- John Savill;
+- ITExams;
+- documentación adicional;
+- información que conozcas previamente.
+
+El objetivo es convertir ESTE Issue en práctica, no ampliarlo.
+
+Si el Issue no contiene información suficiente para realizar una actividad técnica, no inventes los datos que faltan.
+
+---
+
+# CÓMO DISEÑAR LAS ACTIVIDADES
+
+No crees una actividad artificial para cada concepto.
+
+Primero identifica qué conocimientos del Issue realmente necesitan ser aprendidos mediante práctica.
+
+Después crea solamente las actividades necesarias para conseguirlo.
+
+Una actividad puede cubrir varios conceptos relacionados cuando tenga sentido.
+
+Las instrucciones deben ser concretas.
+
+No escribas:
+
+> "Investiga la jerarquía de Azure."
+
+Escribe algo que pueda ejecutar, construir, observar o responder.
+
+Por ejemplo:
+
+> 1. Abre PowerShell.
+> 2. Ejecuta `tree /f`.
+> 3. Observa la estructura mostrada.
+> 4. Relaciona esa estructura con el concepto explicado en el Issue.
+> 5. Explica qué representa cada nivel.
+
+La actividad debe tener un propósito educativo claro.
+
+Ejecutar un comando por ejecutar un comando NO es aprendizaje práctico.
+
+---
+
+# AZURE Y RECURSOS
+
+Si una actividad requiere Azure:
+
+1. Indica qué recurso o requisito necesito.
+2. Indica qué debo hacer.
+3. Indica qué debo observar.
+4. Explica qué relación tiene el resultado con el conocimiento del Issue.
+
+No asumas que tengo recursos que el Issue no menciona.
+
+Si la práctica requiere algo que no puedo obtener únicamente del Issue, sustitúyela por una actividad práctica de comprensión.
+
+---
+
+# FORMATO DEL OUTPUT
+
+Entrega DIRECTAMENTE el resultado.
+
+No escribas una introducción antes del resultado.
+
+# Práctica — AZ-104 #[número]
+
+## Actividad 1 — [Nombre]
+
+**Objetivo**
+
+Explica brevemente qué conocimiento voy a aprender mediante esta actividad.
+
+**Qué necesito**
+
+Indica las herramientas, recursos o requisitos necesarios.
+
+**Pasos**
+
+1. ...
+2. ...
+3. ...
+
+**Qué debo observar**
+
+Explica qué resultado debería buscar.
+
+**Qué significa**
+
+Relaciona el resultado observado con el concepto del Issue.
+
+**Comprobación**
+
+Indica qué debería ser capaz de explicar, identificar, construir o demostrar después de realizar la actividad.
+
+---
+
+## Actividad 2 — [Nombre]
+
+Utiliza la misma estructura únicamente cuando sea necesaria.
+
+---
+
+# RESULTADO FINAL
+
+Al finalizar todas las actividades, indica brevemente:
+
+**"Después de completar este Issue, debo ser capaz de..."**
+
+Completa esta frase utilizando exclusivamente el conocimiento contenido en el Issue.
+
+La respuesta debe describir capacidades concretas, no simplemente repetir títulos o definiciones.
+
+---
+
+# REGLAS DE CALIDAD
+
+Antes de entregar el resultado comprueba internamente que:
+
+- Todas las actividades se basan exclusivamente en el Issue.
+- Cada actividad tiene un propósito de aprendizaje.
+- Las instrucciones son ejecutables o realizables.
+- No hay comandos inventados.
+- No hay información externa.
+- No hay actividades creadas solamente para llenar espacio.
+- Las actividades permiten observar un resultado o producir una respuesta verificable.
+- El resultado final representa lo que realmente debería haber aprendido del Issue.
+- El contenido es suficientemente corto para poder realizarlo sin convertirlo en otro documento teórico.
+
+---
+
+# ISSUE A PROCESAR
+
+[Pega aquí el contenido completo del GitHub Issue]

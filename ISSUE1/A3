@@ -1,0 +1,52 @@
+
+---
+
+## Actividad 3 — Construir la jerarquía de Azure
+
+**Objetivo**
+
+Comprender cómo se relacionan los conceptos generales de organización de Azure descritos en el Issue: Tenant, Management Groups, Subscriptions, Resource Groups y Resources.
+
+**Qué necesito**
+
+* Papel y lápiz.
+
+**Pasos**
+
+1. Dibuja cinco niveles verticales.
+2. Coloca, en este orden:
+
+```text
+Tenant
+   ↓
+Management Groups
+   ↓
+Subscriptions
+   ↓
+Resource Groups
+   ↓
+Resources
+```
+
+3. Debajo de **Resources**, agrega los ejemplos que aparecen en el Issue:
+
+   * Virtual Machine
+   * Storage Account
+   * Virtual Network
+   * Public IP
+   * Network Security Group
+4. Ahora tapa el modelo original.
+5. Reconstruye toda la estructura de memoria.
+6. Explica qué representa cada nivel.
+
+**Qué debo observar**
+
+Que cada nivel cumple una función diferente dentro de la organización y administración del entorno Azure.
+
+**Qué significa**
+
+La jerarquía proporciona un mapa mental inicial para entender cómo se organizan los recursos.
+
+**Comprobación**
+
+Debes poder reconstruir la jerarquía completa y explicar la relación entre sus niveles sin leer el Issue.

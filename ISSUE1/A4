@@ -1,0 +1,45 @@
+
+---
+
+## Actividad 4 — De un requerimiento a recursos Azure
+
+**Objetivo**
+
+Relacionar el trabajo del Azure Administrator con las necesidades de una organización. El Issue plantea ejemplos como crear recursos para una aplicación, configurar permisos, administrar almacenamiento, cómputo y conectividad, y supervisar recursos.
+
+**Qué necesito**
+
+* Papel y lápiz.
+
+**Pasos**
+
+Imagina únicamente el escenario general descrito en el Issue: **una aplicación empresarial desplegada en Azure**.
+
+1. Escribe estos requerimientos:
+
+   * Usuarios y permisos.
+   * Ejecución de la aplicación.
+   * Almacenamiento.
+   * Conectividad.
+   * Supervisión.
+2. Relaciona cada requerimiento con la categoría correspondiente:
+
+   * Identity
+   * Compute
+   * Storage
+   * Networking
+   * Monitoring
+3. Utiliza solamente los ejemplos de recursos mostrados en el Issue.
+4. Explica por qué cada recurso/categoría participa en la aplicación.
+
+**Qué debo observar**
+
+Que una aplicación en Azure requiere varias capacidades trabajando juntas.
+
+**Qué significa**
+
+El Azure Administrator administra un entorno integrado y no una colección de servicios completamente aislados.
+
+**Comprobación**
+
+Debes poder recibir un requerimiento general y explicar qué área de Azure está involucrada.
